@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Maria Kopp!
 
-<!--
-**maria-kopp-dev/maria-kopp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Python Developer  
+🎯 Currently studying at *Attractor School*  
+🌱 Learning Django, Django REST Framework, SQL, and Git  
+🚀 Preparing portfolio projects and solving coding challenges  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Python, Django, DRF
+- HTML, CSS, Bootstrap
+- PostgreSQL, SQLite
+- Git, GitHub
+
+---
+
+### 🌟 My Goals
+- Build real-world projects using Django REST Framework  
+- Strengthen problem-solving and backend skills  
+- Start my first developer job in 2026 💪  
+
+---
+
+📫 Contacts:  
+✉️ Email: makopp1993@gmail.com  
+🌍 Location: Almaty, Kazakhstan  
+💬 Telegram: [@mariakopp](https://t.me/mariakopp)
